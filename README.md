@@ -3,11 +3,9 @@
 *Users Database Assignment*
 
 *By*:
-
 Ahmed Mahmoud
 
 *Course*: 
-
 Database Theory, CMSC-508
 
 *Description*:
